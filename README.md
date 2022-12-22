@@ -13,7 +13,7 @@
 - lorem to input random text, lorem10 for ten words.
 - Usually the web site can only include to h3, the most is h4.
 - css validation service can check whether there are errors.
--
+- Specificity Calculator to check the css selector
 
 ## Study Of Github CI
 
