@@ -6,9 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        This is react practice. Test the eslint, test the PR
-      </header>
+      <header className="App-header">For Test</header>
     </div>
   );
 }
