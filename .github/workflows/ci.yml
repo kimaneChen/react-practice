@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-18.04
     strategy:
       matrix:
-        node_version: [16]
+        node_version: [17]
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
