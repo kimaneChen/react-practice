@@ -20,3 +20,4 @@ jobs:
       - name: run CI
         run: |
           npm install
+          npm lint
