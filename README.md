@@ -26,6 +26,8 @@
   -- text-indent: 2em;
   -- line-height: 1.5
 - Google Fonts to get external font family;
+- css display: block, inline, inline-block;
+- Unicode Character Table web site
 
 ## Study Of Github CI
 
