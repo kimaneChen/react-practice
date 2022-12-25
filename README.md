@@ -28,6 +28,7 @@
 - Google Fonts to get external font family;
 - css display: block, inline, inline-block;
 - Unicode Character Table web site
+- flexbox froggy is used to check the flex-box skill
 
 ## Study Of Github CI
 
