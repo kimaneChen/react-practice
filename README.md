@@ -30,7 +30,7 @@
 - Unicode Character Table web site
 - flexbox froggy is used to check the flex-box skill
 - use chrome inspect layout can identity the index of grid and dimension
--
+- css img is inline element;
 
 ## Study Of Github CI
 
