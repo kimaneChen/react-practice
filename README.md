@@ -34,6 +34,10 @@
 - is where can be used as pseudo class is(footer, header) where (header, footer), 'is' has selector specify, where (0, 0, 0) selector specify;
 - @media (prefers-color-scheme:dark) {
 - :root{ } }
+- css Follow your team
+- use comments to identify
+- sort properties alphabetically
+- owasp open web application security project
 
 ## Study Of Github CI
 
