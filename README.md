@@ -31,7 +31,9 @@
 - flexbox froggy is used to check the flex-box skill
 - use chrome inspect layout can identity the index of grid and dimension
 - css img is inline element;
-- is where can be used as pseudo class is(footer, header) where (header, footer), 'is' has selector specify, where (0, 0, 0) selector specify
+- is where can be used as pseudo class is(footer, header) where (header, footer), 'is' has selector specify, where (0, 0, 0) selector specify;
+- @media (prefers-color-scheme:dark) {
+- :root{ } }
 
 ## Study Of Github CI
 

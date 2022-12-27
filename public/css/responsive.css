@@ -131,9 +131,12 @@ nav a:active {
   text-align: center;
 }
 
-.card figcaption::before {
+.card figcaption::after {
   content: '😍';
   display: block;
+}
+.card figcaption::first-line {
+  font-size: 3rem;
 }
 
 .card p::before {
