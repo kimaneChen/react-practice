@@ -37,7 +37,7 @@
 - css Follow your team
 - use comments to identify
 - sort properties alphabetically
-- owasp open web application security project
+- owasp open web application security project CWE
 
 ## Study Of Github CI
 
