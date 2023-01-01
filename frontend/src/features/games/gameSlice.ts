@@ -1,4 +1,4 @@
-import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
+import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { Game } from '../../interfaces/Game';
 
@@ -29,11 +29,11 @@ export const getGames = createAsyncThunk<Game[]>(
 
 //reducers -> reduce to a specific state -> changes state
 export const gameSlice = createSlice({
-  name: 'game', 
+  name: 'game',
   initialState,
-  reducers：{ 
-    setGame: ( state, action: PayloadAaction(Game[]))=>{
-      state.games= action.payload.games;
-    }
-  }，
-})
+  reducers: {
+    setGame: (state, action: PayloadAction<Game[]>) => {
+      state.games = action.payload;
+    },
+  },
+});

@@ -10,7 +10,7 @@ module.exports = {
   plugins: ['react', '@typescript-eslint', 'jest', 'import', 'prettier'],
   env: {
     browser: true,
-    es6: true,
+    es2021: true,
     jest: true,
   },
   globals: {
