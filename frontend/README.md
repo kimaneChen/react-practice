@@ -38,6 +38,9 @@
 - use comments to identify
 - sort properties alphabetically
 - owasp open web application security project CWE
+- jsonlint, jsonschema,
+- json.stringfy
+- objGen,myJson,brackets.io, jsonlint
 
 ## Study Of Github CI
 
