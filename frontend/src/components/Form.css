@@ -1,0 +1,36 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 80px;
+  width: 50%;
+  border: 2px solid black;
+  align-items: flex-end;
+  padding: 15px;
+}
+
+.formContainer h2 {
+  font-size: 1.5rem;
+}
+
+.formContainer label input {
+  font-size: 1.2rem;
+}
+
+.formTitle {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.inputItem {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  min-width: 80px;
+  margin-top: 15px;
+}
+
+.inputBox {
+  margin-left: 6px;
+  border-color: lightgray;
+  border-radius: 4px;
+}

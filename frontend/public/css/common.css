@@ -1,0 +1,18 @@
+/* Variables */
+
+:root {
+  /* color */
+  --BackGroundColor: #475569;
+  --AltBgColor: #1e293b;
+  --RadialColor: whitesmoke;
+  --LightColor: whitesmoke;
+  --DarkColor: #000;
+  /* Font */
+  --FontFamily: 'Roboto', sans-serif;
+  --FontSmall: 1.5rem;
+  --FontLarge: 3rem;
+
+  /* General */
+  --Padding: 0.5rem;
+  --Shadows: 0 6px 5px -5px var(--DarkColor);
+}
